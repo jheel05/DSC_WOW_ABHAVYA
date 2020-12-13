@@ -35,6 +35,6 @@ We provide a platform for women to report crimes against them and to seek mental
 - CSS
 - Java Script
 
-## To have more discription you can go to:
+## For more discription you can go to:
 https://docs.google.com/presentation/d/1mDTJMJ0DqZlKNUzpNfgvpWf7YMRftvfj/edit#slide=id.p6
-
+https://youtu.be/otypwEYY-eQ
