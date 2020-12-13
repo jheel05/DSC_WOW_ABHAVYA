@@ -29,4 +29,9 @@ We provide a platform for women to report crimes against them and to seek mental
  If a woman feels unsafe or wants to share something, she can have a one-to-one conversation with the coordinator of the site using our chat box function.
  
  ## 'Women were incredible, Women are incredible, and Women will always be incredible'
+# Technical Stack
+- HTML
+- CSS
+- Java Script
+
 
