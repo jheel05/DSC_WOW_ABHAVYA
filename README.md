@@ -27,8 +27,9 @@ We provide a platform for women to report crimes against them and to seek mental
  
  Many women are unaware of their fundamental rights, so to let them know about their basic rights we have a "Rights" column. Where they can have enough knowledge about it.
  If a woman feels unsafe or wants to share something, she can have a one-to-one conversation with the coordinator of the site using our chat box function.
+ We don't reveal victim's identity in public.
  
- ## 'Women were incredible, Women are incredible, and Women will always be incredible'
+## 'Women were incredible, Women are incredible, and Women will always be incredible'
 # Technical Stack
 - HTML
 - CSS
