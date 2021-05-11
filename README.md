@@ -1,8 +1,4 @@
 ## DSC_WOW_ABHAVYA
-## TEAM ADYANT
-- Jheel 
-- Aakriti
-- Kirti
 # ABHAVYA
 ## Every woman is incredible and safe!!
 <p align="center">
